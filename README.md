@@ -1,2 +1,2 @@
 # Bitrise-WatchOS-Sample
-Simple WatchOS Sample with WatchOS Tests
+Simple WatchOS Sample App with bitrise.yml
